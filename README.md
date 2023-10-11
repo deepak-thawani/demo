@@ -1,4 +1,4 @@
 # demo
 First Repository
 <br>
-Learning Git/GitHub
+Learning Git/GitHub With Deepak Thawani
